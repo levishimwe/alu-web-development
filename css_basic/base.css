@@ -57,7 +57,7 @@ table {
 
 body {
 	font-family: 'Josefin Sans', serif;
-	color: rgba(0, 0, 0, 0.8);
+	color:#F80002 (0, 0, 0, 0.342);
 }
 h1, h2, h3, h4, h5, h6, header {
 	font-family: 'Yeseva One', sans-serif;
@@ -160,11 +160,11 @@ footer {
 p {
 	margin-bottom: 15px;
 }
-h1 {
+h1 {color: aqua;
 	font-size: 36px;
 	margin: 40px 0 20px;
 }
-h2 {
+h2 {color: #F80002;
 	font-size: 32px;
 	margin: 30px 0 15px;
 }
